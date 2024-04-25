@@ -214,7 +214,7 @@ body {
   left: -21px;
   width: 2px;
   height: 115px;
-  background: #0bb5f4;
+  background: #b4e258;
 }
 
 .resume .resume_right .resume_hobby ul {
@@ -225,10 +225,10 @@ body {
 .resume .resume_right .resume_hobby ul li {
   width: 80px;
   height: 80px;
-  border: 2px solid #0bb5f4;
+  border: 2px solid #a6f40b;
   border-radius: 50%;
   position: relative;
-  color: #0bb5f4;
+  color: #93f40b;
 }
 
 .resume .resume_right .resume_hobby ul li i {
@@ -242,7 +242,7 @@ body {
   right: -52px;
   width: 50px;
   height: 2px;
-  background: #0bb5f4;
+  background: #5df40b;
 }
 
 .resume .resume_right .resume_hobby ul li:last-child:before {
