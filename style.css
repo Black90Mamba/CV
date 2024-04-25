@@ -9,15 +9,15 @@
 }
 
 body {
-  background: #2d3636;
-  --bg-color: #2d3636;
+  background: #cdc991;
+  --bg-color: #cfc75b;
   --bg-size: 20px;
   --bg-position: calc(var(--bg-size) / 2);
   --main-text-color: snow;
   --primary-color: rebeccapurple;
   --rad-color: #353d3d;
   --rad-percent: 30%;
-  --secondary-color: darkslategrey;
+  --secondary-color: rgb(237, 238, 162);
 
   background-color: var(--bg-color);
   background-image:
