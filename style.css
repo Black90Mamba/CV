@@ -139,7 +139,7 @@ body {
   width: 60%;
   margin: 0 5px;
   height: 5px;
-  background: #009fd9;
+  background: #4bb83e;
   position: relative;
 }
 
@@ -203,7 +203,7 @@ body {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  border: 2px solid #0bb5f4;
+  border: 2px solid #83f40b;
 }
 
 .resume .resume_right .resume_work ul li:after,
